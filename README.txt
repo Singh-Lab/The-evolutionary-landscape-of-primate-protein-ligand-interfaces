@@ -74,7 +74,8 @@ File List:
 		README.txt - this document
 		quantify_conservation.py - the instructions on how to run this script are at the bottom of this document
 		final_orthogroups, (need to download from included dropbox link)
-			-This file contains 4197 subfiles for each orthogroup used in the manuscript
+			-This file contains 10 sub-directories that you must extract into this directory before running the script
+			-This will produce 4197 total subfiles for each orthogroup used in the manuscript
 			-Each file contains the final alignment used in quantify_conservation.py
 			-The raw rate4site (r4sOrig.res) and shannon entropy (SE.txt_last) output is also contained in these files       
         
