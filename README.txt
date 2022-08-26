@@ -110,5 +110,6 @@ File List:
 #                                                                             #
 # this will provide all of the descriptive output in the main manuscript      #
 # running this script as-is will give you the exact results in the manuscript #
+# the script takes 10-20 minutes to run depending on the platform             #
 #                                                                             #
 ###############################################################################
